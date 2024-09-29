@@ -6,7 +6,7 @@
 </script>
 
 <section
-	class="h-screen bg-cover relative"
+	class="h-screen bg-cover relative bg-center"
 	style="background-image: url('https://images.unsplash.com/photo-1573164574511-73c773193279?q=80&w=2969&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D')"
 >
 	<div class="absolute inset-0 bg-black opacity-70" />
