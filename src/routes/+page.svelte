@@ -47,4 +47,5 @@
 <svelte:head>
 	<title>Kinaase - Coming Soon</title>
 	<meta name="description" content="Kinaase is coming soon" />
+	<meta name="image" content="/kinaase logo-02.svg" />
 </svelte:head>
