@@ -17,7 +17,7 @@
 				Coming Soon
 			</h1>
 			<p class="mt-6 lg:text-lg text-white">
-				You can subscribe to our newsletter, and we will let you know when we are back
+				Join our mailing list to receive the latest news and updates from our team
 			</p>
 
 			<form method="post" use:enhance>
